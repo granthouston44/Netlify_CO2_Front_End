@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:3000/api/emissions/emissionFactors';
+const baseURL = 'https://afternoon-island-02594.herokuapp.com/api/heroku_fkzjbmrc/emissionFactors';
 
 export default{
   getEmissionFactors(){
